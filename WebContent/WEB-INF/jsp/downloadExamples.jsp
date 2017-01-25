@@ -38,9 +38,6 @@
 		<tr>
 			<td><a href="${championshipFiles}/Tournament4.txt">Tournament4.txt</a></td>
 		</tr>
-		<tr>
-			<td><a href="${championshipFiles}/Tournament5.txt">Tournament5.txt</a></td>
-		</tr>
 		</tbody>
 	</table>
 	<div class="rowForm">

@@ -40,4 +40,14 @@ public class ChampionshipService {
 	public void deleteAllBDData(){
 		championshipDao.deleteAllData();
 	}
+	
+	public void storeFirstAndSecond(String first, String second){
+		Player firstPlayer = new Player();
+		Player secondPlayer = new Player();
+		
+		firstPlayer.setName(first);
+		secondPlayer.setName(second);
+		
+		championshipDao.saveFirstAndSecondPlace(firstPlayer, secondPlayer);
+	}
 }
