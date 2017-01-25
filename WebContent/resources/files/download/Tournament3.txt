@@ -1,0 +1,25 @@
+[
+	[	
+		[
+			[["Reynaldo", "P"], ["Alberto", "S"]], 
+			[["Wendy", "R"], ["Miguel", "S"]]
+		],
+
+		[ 
+			[["Vanessa", "P"], ["Juan", "S"]], 
+			[["Johanna", "R"], ["Matilde", "P"]]
+		]
+	],
+
+	[	
+		[
+			[["Oscar", "P"], ["Aida", "R"]], 
+			[["Jose", "R"], ["Alicia", "P"]]
+		],
+
+		[ 
+			[["Gilberto", "S"], ["Maria", "P"]], 
+			[["Guillermo", "S"], ["Daniela", "R"]]
+		]
+	]
+]

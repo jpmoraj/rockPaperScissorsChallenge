@@ -1,0 +1,54 @@
+[
+	[
+		[	
+			[
+				[["Armando", "P"], ["David", "S"]], 
+				[["Paula", "R"], ["Gabriela", "S"]]
+			],
+
+			[ 
+				[["Victor", "P"], ["Ricardo", "S"]], 
+				[["Silvia", "R"], ["Laura", "S"]]
+			]
+		],
+
+		[	
+			[
+				[["Luis", "P"], ["Patricia", "P"]], 
+				[["Pablo", "R"], ["Alexis", "P"]]
+			],
+
+			[ 
+				[["Alejandra", "S"], ["Gustavo", "P"]], 
+				[["Natalia", "S"], ["Mario", "R"]]
+			]
+		]
+	],
+	
+	[
+		[	
+			[
+				[["Reynaldo", "P"], ["Alberto", "S"]], 
+				[["Wendy", "R"], ["Miguel", "S"]]
+			],
+
+			[ 
+				[["Vanessa", "P"], ["Juan", "S"]], 
+				[["Johanna", "R"], ["Matilde", "P"]]
+			]
+		],
+
+		[	
+			[
+				[["Oscar", "P"], ["Aida", "R"]], 
+				[["Jose", "R"], ["Alicia", "P"]]
+			],
+
+			[ 
+				[["Gilberto", "S"], ["Maria", "P"]], 
+				[["Guillermo", "S"], ["Daniela", "R"]]
+			]
+		]
+	]
+	
+]

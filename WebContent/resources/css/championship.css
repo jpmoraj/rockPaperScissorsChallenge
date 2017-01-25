@@ -1,0 +1,48 @@
+table, td, th
+{
+	border:1px solid green;
+	font-family: 'Oxygen', sans-serif;
+	width: 100%;
+}
+th
+{
+	background-color:green;
+	color:white;
+}
+body
+{
+	text-align: center;
+}
+
+label{
+	margin-left:5px;
+}
+.container
+{
+	margin-left:80px;
+	margin-right: 80px;
+	width: 40em;
+	font-family: Arial;
+}
+
+.rowForm
+{
+	margin-top: 25px;
+	margin-bottom: 30px;
+	font-size: 14px;
+}
+
+fieldset {
+	border: green 1px solid;
+	margin-top: 15px;
+}
+
+.button{
+	margin-left: 20px;
+	padding: 5px 15px;
+}
+
+.fileButton{
+	margin-left: 10px;
+	/*padding-right: 20px;*/
+}
